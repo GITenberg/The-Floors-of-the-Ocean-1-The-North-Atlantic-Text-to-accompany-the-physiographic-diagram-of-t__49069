@@ -25,6 +25,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Floors of the Ocean: 1. The North Atlantic
 
   Text to accompany the physiographic diagram of the North Atlantic'
